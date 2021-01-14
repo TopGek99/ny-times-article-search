@@ -1,0 +1,27 @@
+.jumbotron{
+    background-color: darkblue;
+    color: white;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 700;
+    padding: auto 3px;
+}
+i{
+    margin-top: 8.5px;
+    margin-right: 5px;
+}
+.btn.btn-light{
+    background-color: transparent;
+    border: transparent;
+    color: black;
+}
+.card-footer.text-muted{
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+}
+.fas.fa-heart{
+    margin-left: 5px;   
+}
